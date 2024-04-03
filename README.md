@@ -2,9 +2,8 @@
 👋 Hi, I’m @demigod1208,
 👀 I’m interested in web development, machine learning, and open source contribution.
 🌱 I'm currently learning Data Science and TensorFlow
-💞️ I'm looking to collaborate on open source data science projects
 📫 How to reach me "You can reach me at my email - rangarajboopathy@gmail.com"
-😄 Pronouns: He/Him
+😄 Pronouns: He
 
 
 <!---
