@@ -3,7 +3,6 @@
 👀 I’m interested in web development, machine learning, and open source contribution.
 🌱 I'm currently learning Data Science and TensorFlow
 📫 How to reach me "You can reach me at my email - rangarajboopathy@gmail.com"
-😄 Pronouns: He
 
 
 <!---
